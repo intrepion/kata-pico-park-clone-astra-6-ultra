@@ -67,3 +67,7 @@ The static production app is written to `dist/`; serve it with any static web se
 The simulation runs at 120 fixed steps per second, independently of rendering. It clamps delayed frames and pauses when focus is lost to prevent background progress. Art is drawn with code; UI fonts are DM Sans and Space Grotesk, distributed by Fontsource under the SIL Open Font License.
 
 MIT licensed; see [LICENSE](LICENSE).
+
+## Play online
+
+[Play the hosted game](https://intrepion.github.io/kata-pico-park-clone-astra-6-ultra/)
