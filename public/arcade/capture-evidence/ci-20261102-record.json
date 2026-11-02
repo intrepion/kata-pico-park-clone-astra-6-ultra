@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "workflowCommit": "1b74afc000482bacecc70dd1b95ad8298adb9a0d",
+  "sourceCommit": "19697638ac381c2325698937db71b43e040ee9be",
+  "runId": "41420413748",
+  "url": "http://127.0.0.1:4251/",
+  "inputs": {
+    "index.html": "2798c67d4096103c9a49b073c4ad523985f54633c2685eea8ab4d4b791a8f2b6",
+    "assets/dm-sans-latin-wght-normal-Xz1IZZA0.woff2": "9fea608a947e67020c33cad9a6fe3d60c54119dfb8cff87768a8117a15ed7543",
+    "assets/index--gbgW4KU.js": "5b2cb57913bf9021af54eef10cd4b73e86c0dc69117e992207a1eee083841378",
+    "assets/index-BvSRXGqC.css": "b06d07e9d937cbf8b29e2b14aff37169c57da482146bd5555adee94e7dbd1a5a",
+    "assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2": "0640890476fc1198ab4de571fb658de443c4d85b66466ec09534a8737ab1ce9d"
+  },
+  "browser": "153.0.8010.12",
+  "viewport": {
+    "width": 1280,
+    "height": 1000
+  },
+  "screenshots": ["pocket-pals-astra-01.png", "pocket-pals-astra-02.png"]
+}
