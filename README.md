@@ -71,3 +71,7 @@ MIT licensed; see [LICENSE](LICENSE).
 ## Play online
 
 [Play the hosted game](https://intrepion.github.io/kata-pico-park-clone-astra-6-ultra/)
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
